@@ -1,0 +1,15 @@
+{
+    "version": "0.5.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/stashbase/cli/releases/download/v0.5.0/stashbase-0.5.0-x86_64-pc-windows-msvc.zip",
+            "bin": [
+                "stashbase.exe"
+            ],
+            "hash": "733e6e5ea71bf3ffe7978c631483205ca038b39534211f0e677b998a6fb81043"
+        }
+    },
+    "homepage": "https://stashbase.dev",
+    "license": "Apache-2.0",
+    "description": "Official Stashbase CLI for Windows"
+}
