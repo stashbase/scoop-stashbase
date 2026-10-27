@@ -1,12 +1,12 @@
 {
-    "version": "0.23.0",
+    "version": "0.24.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/stashbase/cli/releases/download/v0.23.0/stashbase-0.23.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://github.com/stashbase/cli/releases/download/v0.24.0/stashbase-0.24.0-x86_64-pc-windows-msvc.zip",
             "bin": [
                 "stashbase.exe"
             ],
-            "hash": "a2a397142c5eb3c040df4a6cd5f3bfacde5acb684ee05f26b195ab88540af4fb"
+            "hash": "e023180c83fd8d666fada451966a36cc9d04e1ccc760767ec773553c47536e5f"
         }
     },
     "homepage": "https://stashbase.dev",
